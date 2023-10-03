@@ -8,6 +8,6 @@ class Classroom {
         System.out.println(firstWilder.whoAmI());
         System.out.println(secondWilder.whoAmI());
         System.out.println(thirdWilder.whoAmI());
-        System.out.println(fourthWilderwhoAmI());
+        System.out.println(fourthWilder.whoAmI());
     }
 }
